@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Added .editorconfig for consistent formatting
 - Cross-checked behaviour against spec
+
+## 2026-03-25
+- Checked for memory leaks in long-running path
