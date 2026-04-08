@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Fixed off-by-one error in loop
 - Ran linter, applied auto-fixes
+
+## 2026-04-08
+- Verified API endpoint response schema
+- Investigated performance bottleneck, noted findings
+- Documented config options
