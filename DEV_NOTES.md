@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-01
 - Added basic retry logic for network requests
 - Added CONTRIBUTING.md stub
+
+## 2026-04-08
+- Noted known limitation in docs
+- Fixed off-by-one error in loop
+- Ran linter, applied auto-fixes
